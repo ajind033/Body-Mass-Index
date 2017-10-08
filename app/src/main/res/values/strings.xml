@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BMI App</string>
+    <string name="bmi">BMI Calculator</string>
+    <string name="cal_bmi">Calculate Now</string>
+    <string name="heightenter">Enter the Height in Centimeter.</string>
+    <string name="weightenter">Enter the Weight in Kilogram.</string>
+    <string name="cal">Calculate BMI</string>
+    <string name="urbmi">Your BMI</string>
+    <string name="urres">Your Result</string>
+</resources>
